@@ -13,7 +13,7 @@ enum Hider {
 /**
  * Cover
  */
-//% weight=120 color=#FF0000 icon="▓"
+//% weight=0 color=#FF0000 icon="▓"
 namespace BlocksCover {
     /**
      * TODO: This block will not affect the game in any way and is only going to work in the blocks editor.
